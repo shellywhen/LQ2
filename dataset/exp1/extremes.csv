@@ -1,0 +1,8 @@
+field,minvalue,maxvalue
+bandwidth,0.3,1
+nbar,5,25
+width,300,800
+aspectRatio,0.5,2
+maxChar,3,14
+orientation,0,1
+rotation,-90,0
