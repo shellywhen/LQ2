@@ -2,7 +2,7 @@
 
 The repository provides supplementary materials for ACM-SIGCHI 2021 submission:  *Learning to Automate Chart Layout Configurations Using Crowdsourced Paired Comparison*.
 
-## Getting Start
+## Getting Started
 
 Our code is run in the `Python 3` environment. In particular, some rely on `Jupiter Notebook`. You might need to use `python3` or `pip3` depending on your configurations.
 
